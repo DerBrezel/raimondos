@@ -32,7 +32,7 @@ function App() {
 
           <div className='player-wrapper'>
               <ReactPlayer
-                  url={"/raimondos/Wunstorf 98 Anuga 97.mp4"}
+                  url={""}
                   controls
                   width="100%"
                   height="100%"
